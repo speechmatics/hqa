@@ -1,0 +1,5 @@
+venv_hqa
+models
+__pycache__
+**/model.pt*
+.ipynb_checkpoints
